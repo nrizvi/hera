@@ -1,0 +1,44 @@
+#body{
+    background-color: #ff914d;
+}
+
+#pageName{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 3em;
+    margin-top: 15%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#tagline{
+    color: white;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 55px;
+    margin-right: 55px;
+}
+
+input,button{
+    background-color: white;
+    color: black;
+    border: none;
+    height: 30px;
+    margin-top: 30px;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 10px;
+}
+
+.left{
+    margin-right: 30px;
+}
+
+/*.right{
+    margin-right: 30px;
+} */
